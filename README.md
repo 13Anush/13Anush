@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Data & Analytics @ Thomson Reuters <br>🌱 I'm currently a Final year under grad.<br>👯 I'm quite active on LinkedIn .<br>☁️ Ask me about Big Data Analytics<br>⚡Fun Fact: I am a good Cricketer and a Music Enthusiast.
+🔭 I'm currently working as Data & Analytics Intern @ Thomson Reuters <br>🌱 I'm currently a Final year under grad.<br>👯 I'm quite active on LinkedIn .<br>☁️ Ask me about Big Data Analytics<br>⚡Fun Fact: I am a good Cricketer and a Music Enthusiast.
 
 
 ## 🌐 Socials:
